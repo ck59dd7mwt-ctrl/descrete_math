@@ -1,0 +1,28 @@
+{
+  "collapse-filter": false,
+  "search": "-path:README",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {"query": "tag:#дискретная-математика OR tag:#карта", "color": {"a": 1, "rgb": 14725458}},
+    {"query": "tag:#множества", "color": {"a": 1, "rgb": 16753152}},
+    {"query": "tag:#частичный-порядок", "color": {"a": 1, "rgb": 4747868}},
+    {"query": "tag:#эквивалентность", "color": {"a": 1, "rgb": 6018914}},
+    {"query": "tag:#шпаргалка", "color": {"a": 1, "rgb": 16753920}}
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 1.1,
+  "collapse-forces": false,
+  "centerStrength": 0.45,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 170,
+  "scale": 1,
+  "close": true
+}
